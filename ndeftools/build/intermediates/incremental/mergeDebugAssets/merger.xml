@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\WORK\UQ_deepspace\workspace\NFCP2P_Demo_15\ndeftools\src\main\assets"/><source path="D:\WORK\UQ_deepspace\workspace\NFCP2P_Demo_15\ndeftools\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\WORK\UQ_deepspace\workspace\NFCP2P_Demo_15\ndeftools\src\debug\assets"/></dataSet></merger>
